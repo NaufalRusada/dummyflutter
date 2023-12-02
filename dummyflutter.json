@@ -1,0 +1,148 @@
+{
+  "Config": [
+    {
+      "interval": 3,
+      "addon": true,
+      "maps": true,
+      "texture": true,
+      "skin": true,
+      "admob_open_ads": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3044835834543602/1623206652",
+      "admob_reward": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ],
+  "Addon": [
+    {
+      "name": "Naruto Origins",
+      "role": "Naruto is the main character of an anime called Naruto Shippuden created by Masashi Kishimoto. This add-on adds Naruto to your world with special tactics and abilities to defeat it's enemies.",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/Copper_Golem_Addon.mcaddon",
+      "imageaddon": [
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png"
+      ]
+    },
+    {
+      "name": "Naruto Origins",
+      "role": "Naruto is the main character of an anime called Naruto Shippuden created by Masashi Kishimoto. This add-on adds Naruto to your world with special tactics and abilities to defeat it's enemies.",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/Copper_Golem_Addon.mcaddon",
+      "imageaddon": [
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png"
+      ]
+    },
+    {
+      "name": "Naruto Origins",
+      "role": "Naruto is the main character of an anime called Naruto Shippuden created by Masashi Kishimoto. This add-on adds Naruto to your world with special tactics and abilities to defeat it's enemies.",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/Copper_Golem_Addon.mcaddon",
+      "imageaddon": [
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png"
+      ]
+    }
+
+  ],
+  "Map": [
+    {
+      "name": "bakroom",
+      "role": "bakroom masehhhdaiudwdusjndbjwnd",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/thebackrooms.mcworld",
+      "imagemap": [
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/2.jpeg",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/3.jpeg"
+      ]
+    },
+    {
+      "name": "bakroom",
+      "role": "bakroom masehhhdaiudwdusjndbjwnd",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/thebackrooms.mcworld",
+      "imagemap": [
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/2.jpeg",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/3.jpeg"
+      ]
+    },
+    {
+      "name": "bakroom",
+      "role": "bakroom masehhhdaiudwdusjndbjwnd",
+      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/thebackrooms.mcworld",
+      "imagemap": [
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/2.jpeg",
+        "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/3.jpeg"
+      ]
+    }
+  ],
+  "Texture": [
+    {
+      "name": "ReBuilt Shader",
+      "description": "ReBuilt Shader, a shader pack rebuild from scratch, is the successor of the famous UltraMax Shader. Using new rendering methods to create a new stunning visuals at little performance cost",
+      "file_url": "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
+      "imagetexture": [
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/1/satu.png",
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/2/dua.png",
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/3/lima_desc.png"
+      ]
+
+    },
+    {
+      "name": "ReBuilt Shader",
+      "description": "ReBuilt Shader, a shader pack rebuild from scratch, is the successor of the famous UltraMax Shader. Using new rendering methods to create a new stunning visuals at little performance cost",
+      "file_url": "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
+      "imagetexture": [
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/1/satu.png",
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/2/dua.png",
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/3/lima_desc.png"
+      ]
+
+    },
+    {
+      "name": "ReBuilt Shader",
+      "description": "ReBuilt Shader, a shader pack rebuild from scratch, is the successor of the famous UltraMax Shader. Using new rendering methods to create a new stunning visuals at little performance cost",
+      "file_url": "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
+      "imagetexture": [
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/1/satu.png",
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/2/dua.png",
+        "https://hunterlinedev.com/Hunter Line/shader ultraUltra Realictic shaders pack for MCPE/data Mod/3/lima_desc.png"
+      ]
+
+    }
+  ],
+  "Skins": [
+    {
+      "id": 1,
+      "name_skin": "MCPE Skin 1",
+      "skin_url": "https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg",
+      "view_skin": "https://lh3.googleusercontent.com/DMA9BwB5NlYkTk8YprvB2ibZYnlJ8laLYvy3-k8V0w74mOhwVbQY6LP-3nHSsCbyTDyQ56D_A6kGhsffHNHVtBXD-QNOUoXts7c7"
+    },
+    {
+      "id": 2,
+      "name_skin": "MCPE Skin 2",
+      "skin_url": "https://lh3.googleusercontent.com/qEZWpWnD3RKOM7z6y6t1ew-XGyPESiuRSNEyExlvuISYEBQ5qIKUSkePMtAdYM_mAsMcoErphubBh9BONQdTEA",
+      "view_skin": "https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
+    },
+    {
+      "id": 3,
+      "name_skin": "MCPE Skin 3",
+      "skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+      "view_skin": "https://lh3.googleusercontent.com/LxoJ94nSsEIfyxC_yxNYke3B85SNt3iGSqbGkdmbWdt5CftQcKkStnFkB5AZVsXlYat4yQqK37ZoTPFjJgHJ"
+    },
+    {
+      "id": 4,
+      "name_skin": "MCPE Skin 4",
+      "skin_url": "https://lh3.googleusercontent.com/4odiY4sTbWYnOepBl4B1mXV9qX2tse_I5sY4nh1AKFFQ5AbN1JD5nJOtTwZmvgaa7Iq-CG1v2Icms7AG7Si1",
+      "view_skin": "https://lh3.googleusercontent.com/BtfZqIYRUuuqJQwqrcSJdrJGDQK54mROS7-eWks8S7HA1gpPJQ8KND1_R17VjIQqJzuSdVNKrRjwRqH4z2cPInE"
+    },
+    {
+      "id": 5,
+      "name_skin": "MCPE Skin 5",
+      "skin_url": "https://lh3.googleusercontent.com/0drgV7tkpD-HMDeup2iCeQN_XWMo-4Jn-XhlJHDW_k9jnGjIX6nTpQWi0Dz6hjKwBxVyWMb2zQyzfAjceziNEA",
+      "view_skin": "https://lh3.googleusercontent.com/ufbY_znAQQgYiONw_ydaflgrMIjQC0u45FC21Kf0p6w8JF48GkXHp4acIhvwuTLDu3YjRDoEm9PdDtK8PFwXqg"
+    }
+  ]
+}
